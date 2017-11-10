@@ -17,3 +17,12 @@ let full = [];
 }
 return full
 }
+function iLoveTheBeatles(number){
+  let arr2 = [];
+  do {
+    arr2 += "I love the Beatles!" + i;
+    i++;
+}
+while (i < 15);
+  return arr2
+}
