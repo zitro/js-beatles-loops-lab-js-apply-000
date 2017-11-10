@@ -10,7 +10,7 @@ return arr1
 
 function johnLennonFacts(facts){
 let i = 0;
-let full = '';
+let full = [];
   while (facts[i]) {
     full += facts[i] + '!!!';
     i++;
