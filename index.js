@@ -23,7 +23,7 @@ return full
 function iLoveTheBeatles(num){
   let arr2 = [];
   do {
-    arr2 += "I love the Beatles!" + num;
+    arr2 += "I love the Beatles!";
     num++;
 }
 while (num < 15);
