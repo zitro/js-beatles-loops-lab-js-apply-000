@@ -8,6 +8,7 @@ for(let i=0;i < musicians.length;i++){
 return arr1
 }
 
+
 function johnLennonFacts(facts){
 let i = 0;
 let full = [];
@@ -17,10 +18,12 @@ let full = [];
 }
 return full
 }
+
+
 function iLoveTheBeatles(number){
   let arr2 = [];
   do {
-    arr2 += "I love the Beatles!" + i;
+    arr2 += "I love the Beatles!" + number;
     i++;
 }
 while (i < 15);
