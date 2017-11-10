@@ -22,7 +22,7 @@ return full
 
 function iLoveTheBeatles(num){
   let arr2 = [];
-  let i = 0;
+  let num = 0;
   do {
     arr2 += "I love the Beatles!" + num;
     num++;
