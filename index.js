@@ -20,13 +20,13 @@ return full
 }
 
 
-function iLoveTheBeatles(number){
+function iLoveTheBeatles(num){
   let arr2 = [];
   let i = 0;
   do {
-    arr2 += "I love the Beatles!" + number;
-    i++;
+    arr2 += "I love the Beatles!" + num;
+    num++;
 }
-while (i < 15);
+while (num < 15);
   return arr2
 }
