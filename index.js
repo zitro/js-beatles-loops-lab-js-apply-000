@@ -8,11 +8,12 @@ for(let i=0;i < musicians.length;i++){
 return arr1
 }
 
-/*function johnLennonFacts(facts){
+function johnLennonFacts(facts){
 let i = 0;
 let full = '';
   while (facts[i]) {
     full += facts[i] + '!!!';
     i++;
 }
-}*/
+return full
+}
