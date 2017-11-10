@@ -10,6 +10,7 @@ if(i=0,i<musicians,i++){
 }
 
 function johnLennonFacts(facts){
+let i = 0;
   while (facts[i]) {
     full += facts[i] + '!!!';
     i++;
